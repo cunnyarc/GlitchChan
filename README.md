@@ -1,37 +1,54 @@
-[discord-badge]: ./assets/Discord.svg
-[discord-link]: https://discord.gg/ZxbYHEh
-[ko-fi-badge]: ./assets/Ko-Fi.svg
-[ko-fi-link]: https://ko-fi.com/glitchychan
-[paypal-badge]: ./assets/PayPal.svg
-[paypal-link]: https://paypal.com/donate/?business=HMCB3XDGKF5G4
-[twitter-badge]: ./assets/Twitter.svg
-[twitter-link]: https://twitter.com/glitchychan
+## Hello, I am Glitchy
+[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/glitchchan)[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=for-the-badge)](https://twitter.com/glitchychan)[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)](https://discord.gg/ZxbYHEh)[![MyAnimeList Badge](https://img.shields.io/badge/MyAnimeList-2E51A2?logo=myanimelist&logoColor=fff&style=for-the-badge)](https://myanimelist.net/profile/GlitchyChan)
 
-## GlitchChan グリッチ
+### Welcome to my profile
+I'm a self taught programmer always looking to learn more about different languages and technologies. 
 
-<img align="right" width="320" src="https://lanyard-profile-readme.vercel.app/api/269567451199569920?theme=dark?borderRadius=20px?idleMessage=OwO%20Looks%20like%20I%20am%20not%20doing%20anything!">
+## Rapid Fire
+<table><tr><td valign="top" width="50%">
 
-```Python
-class GlitchChan:
-    def __init__(self):
-        self.name = "GlitchChan"
-        self.languages = ["Python", "JavaScript"]
-    
-    def __repr__(self):
-        return f"<{self.name} who knows {self.languages}>"
-``` 
+- ⌨️ I'm currently working on private projects
 
-### Languages and Tools
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/d8574c7bce27faa27fb879bca56dfe351ee66efd/topics/pycharm/pycharm.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png"></code>
+- 📖 I'm currently learning Vue and Nuxtjs
 
-### Socials and Donate
-[![discord-badge]][discord-link] [![twitter-badge]][twitter-link] [![paypal-badge]][paypal-link] [![ko-fi-badge]][ko-fi-link]
+- ⚡ Fun fact: I am a degenerate weeb
 
-### Github Stats
-![GlitchChan's GitHub stats](https://github-readme-stats.vercel.app/api?username=glitchchan&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glitchchan&layout=compact&theme=radical)
+</td><td valign="top" width="50%">
+<div align="center">
+<a href="https://discord.com/users/269567451199569920">
+<img src="https://lanyard.cnrad.dev/api/269567451199569920" align="center" style="width: 100%" />
+</a>
+</div>
+</td></tr></table>
+
+## Languages and Tools
+<div align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25" />
+</div>
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=glitchchan&show_icons=true&count_private=true&hide_border=true&theme=onedark" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glitchchan&hide_border=true&layout=compact&theme=onedark" align="left" style="width: 100%" />
+
+</td></tr></table>  
