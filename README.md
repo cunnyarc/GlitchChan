@@ -15,10 +15,10 @@
 class GlitchChan:
     def __init__(self):
         self.name = "GlitchChan"
-        self.languages = ["Python", "C#", "JavaScript"]
+        self.languages = ["Python", "JavaScript"]
     
     def __repr__(self):
-        return f"<{self.name} who knows {self.languages}"
+        return f"<{self.name} who knows {self.languages}>"
 ``` 
 
 ### Languages and Tools
