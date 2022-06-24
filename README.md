@@ -7,9 +7,9 @@ I'm a self taught programmer always looking to learn more about different langua
 ## Rapid Fire
 <table><tr><td valign="top" width="50%">
 
-- ⌨️ I'm currently working on private projects
+- ⌨️ I'm currently working on my website
 
-- 📖 I'm currently learning Vue and Nuxtjs
+- 📖 I'm currently learning Svelte
 
 - ⚡ Fun fact: I am a degenerate weeb
 
