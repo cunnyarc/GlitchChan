@@ -22,7 +22,7 @@ I'm a self taught programmer always looking to learn more about different langua
 </td></tr></table>
 
 ## Languages and Tools
-<img src="https://skillicons.dev/icons?i=discord,bots,figma,vscode,git,github,svelte,js,ts,tailwind,py">
+<img src="https://skillicons.dev/icons?i=discord,bots,figma,vscode,git,github,svelte,js,ts,tailwind,py,flask">
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
