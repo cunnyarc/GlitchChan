@@ -7,11 +7,11 @@ I'm a self taught programmer always looking to learn more about different langua
 ## Rapid Fire
 <table><tr><td valign="top" width="50%">
 
-- ⌨️ I'm currently working on my website
+- ⌨️ I'm currently working on various projects
 
-- 📖 I'm currently learning Svelte
+- 📖 I'm currently learning Rust
 
-- ⚡ Fun fact: I am a degenerate weeb
+- ⚡ Fun fact: Cute & Funny 😭
 
 </td><td valign="top" width="50%">
 <div align="center">
@@ -22,7 +22,7 @@ I'm a self taught programmer always looking to learn more about different langua
 </td></tr></table>
 
 ## Languages and Tools
-<img src="https://skillicons.dev/icons?i=discord,bots,figma,vscode,git,github,svelte,js,ts,tailwind,py,flask">
+<img src="https://skillicons.dev/icons?i=discord,bots,md,vscode,git,github,svelte,js,ts,tailwind,py,rust,prisma">
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
@@ -33,4 +33,4 @@ I'm a self taught programmer always looking to learn more about different langua
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glitchchan&hide_border=true&layout=compact&theme=onedark" align="left" style="width: 100%" />
 
-</td></tr></table>  
+</td></tr></table>
