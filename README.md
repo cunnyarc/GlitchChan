@@ -16,7 +16,7 @@ I'm a self taught programmer always looking to learn more about different langua
 </td><td valign="top" width="50%">
 <div align="center">
 <a href="https://discord.com/users/269567451199569920">
-<img src="https://lanyard.cnrad.dev/api/269567451199569920" align="center" style="width: 100%" />
+<img src="https://lanyard.cnrad.dev/api/269567451199569920?showDisplayName=true&idleMessage=h" align="center" style="width: 100%" />
 </a>
 </div>
 </td></tr></table>
